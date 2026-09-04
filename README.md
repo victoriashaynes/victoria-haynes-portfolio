@@ -2,7 +2,7 @@
 
 Portfolio site for Victoria Haynes, Baylor University Apparel Merchandising (December 2026).
 
-**Live site:** https://roycannedy.github.io/victoria-haynes-portfolio/
+**Live site:** https://victoriashaynes.github.io/
 
 ## Two versions
 
